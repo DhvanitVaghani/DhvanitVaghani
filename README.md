@@ -22,9 +22,5 @@ I'm actively enhancing my skills to become a **Full Stack Developer** by expandi
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-## 📊 GitHub Contributions
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DhvanitVaghani&theme=github-light&hide_border=true&area=true)
-
 ## 🌐 Let's Connect
 I'm always excited to collaborate, learn, and share knowledge. Feel free to reach out or explore my repositories for a glimpse into my projects and coding journey. Let's build something amazing together!
