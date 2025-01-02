@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Flutter Developer** with over 3 years of professional experience in software development. I specialize in creating seamless and user-friendly mobile applications, and I've worked on projects for both startups and established companies. My journey has been driven by a commitment to learning, adaptability, and delivering high-quality results.
+I'm a passionate **Mobile App Developer** with over 3 years of professional experience in software development. I specialize in creating seamless and user-friendly mobile applications, and I've worked on projects for both startups and established companies. My journey has been driven by a commitment to learning, adaptability, and delivering high-quality results.
 
 ## 💼 What I Bring to the Table
 - 🚀 Expertise in **Flutter** and proficiency in multiple programming languages and frameworks.
