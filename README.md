@@ -2,17 +2,14 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Mobile App Developer** with over 3 years of professional experience in software development. I specialize in creating seamless and user-friendly mobile applications, and I've worked on projects for both startups and established companies. My journey has been driven by a commitment to learning, adaptability, and delivering high-quality results.
+I'm a passionate **Software Engineer** with over 3 years of professional experience in software development. I specialize in creating seamless and user-friendly software applications, and I've worked on projects for both startups and established companies. My journey has been driven by a commitment to learning, adaptability, and delivering high-quality results.
 
 ## 💼 What I Bring to the Table
-- 🚀 Expertise in **Flutter** and proficiency in multiple programming languages and frameworks.
+- 🚀 Expertise and proficiency in multiple programming languages and frameworks.
 - 📚 Strong capability to learn new tech stacks and adapt to evolving requirements.
 - 🛠️ Excellent debugging skills and the ability to solve complex technical challenges.
 - 🤝 A collaborative mindset with experience working closely with CTOs and cross-functional teams.
 - 🎨 Proficiency in tackling complex business logic and implementing intuitive UI designs.
-
-## 🎯 Current Goals
-I'm actively enhancing my skills to become a **Full Stack Developer** by expanding my expertise in backend technologies, databases, and server-side development. My goal is to build comprehensive, end-to-end solutions that deliver seamless user experiences.
 
 ## 🖥️ Languages
 
