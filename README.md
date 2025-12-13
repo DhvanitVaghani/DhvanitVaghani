@@ -1,4 +1,4 @@
-# Hi there! I'm a Software Developer 👋
+# Hi there!👋
 
 ## 🚀 Innovate, Lead, and Build
 
