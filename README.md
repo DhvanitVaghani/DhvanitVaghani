@@ -2,7 +2,7 @@
 
 ## 🚀 Innovate, Lead, and Build
 
-I am a **Software Developer** with **4+ years** of professional experience, specializing in building and deploying scalable, high-availability software across **Mobile (iOS/Android), Web, and robust Backend systems**. I drive technical excellence, lead development teams, and ensure solutions are architected for performance and maintainability, consistently delivering value aligned with core business objectives.
+I am a **Software Engineer** with **4+ years** of professional experience, specializing in building and deploying scalable, high-availability software across **Mobile (iOS/Android), Web, and robust Backend systems**. I drive technical excellence, lead development teams, and ensure solutions are architected for performance and maintainability, consistently delivering value aligned with core business objectives.
 
 ## 🛠️ Core Expertise & Focus
 
@@ -11,8 +11,8 @@ My expertise covers the entire application lifecycle—from crafting seamless us
 | Area | Key Skills / Focus |
 | :--- | :--- |
 | **Adaptability & Growth** | **Proven ability to master any new language/framework quickly**, ensuring project versatility and future-proofing solutions. |
-| **Mobile & Frontend** | **Flutter**, Dart, Implementing intuitive UI designs, cross-platform development. |
-| **Backend & Core** | **Java, Kotlin,** Designing scalable APIs, tackling intricate business logic, Microservices architecture. |
+| **Mobile & Frontend** | **Jetpack Compose, KMP,Flutter**, Dart, Implementing intuitive UI designs, cross-platform development. |
+| **Backend & Core** | **Java, Kotlin** Designing scalable APIs, tackling intricate business logic, Microservices architecture. |
 | **Cloud & DevOps**| **AWS**, Infrastructure as Code (**Terraform**), Cloud architecture, Deployment automation, CI/CD pipelines. |
 | **Leadership** | Team Management, Mentoring, Agile Methodologies, Project Scoping, Cross-Functional Collaboration. |
 
@@ -20,10 +20,10 @@ My expertise covers the entire application lifecycle—from crafting seamless us
 
 I specialize in powerful, modern, and high-performance technologies, but my capabilities are not limited to this stack:
 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
